@@ -1,0 +1,10 @@
+.ant-table-thead{
+    background: #EDF1F6;
+}
+
+.visible{
+    display: block;
+}
+.styleTd{
+    padding: 10px 0px;
+}
